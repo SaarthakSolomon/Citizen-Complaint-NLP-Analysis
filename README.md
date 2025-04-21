@@ -1,7 +1,7 @@
 # Citizen-Complaint-NLP-Analysis
 # NLP Topic Modeling on Amazon Fine Food Reviews
 
-This project was developed for the course **DLBDSEDA02 – Data Analysis** and focuses on using Natural Language Processing (NLP) techniques to extract key topics from unstructured customer reviews.
+This project focuses on using Natural Language Processing (NLP) techniques to extract key topics from unstructured customer reviews.
 
 ## 📊 Objective
 To identify the most discussed themes in product reviews using:
