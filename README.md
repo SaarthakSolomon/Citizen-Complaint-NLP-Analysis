@@ -1,4 +1,4 @@
-# Citizen-Complaint-NLP-Analysis
+# Amazon-Customer's-Complaint-NLP-Analysis
 # NLP Topic Modeling on Amazon Fine Food Reviews
 
 This project focuses on using Natural Language Processing (NLP) techniques to extract key topics from unstructured customer reviews.
